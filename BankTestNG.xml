@@ -13,7 +13,7 @@
     <classes>
       <class name="com.banking.testCases.TC_LoginTest_01" />
       <class name="com.banking.testCases.TC_LoginExcel_02" />      
-      <class name="com.banking.testCases.TC_AddCustomer_03" />
+      <!--<class name="com.banking.testCases.TC_AddCustomer_03" />-->
       <class name="com.banking.testCases.TC_EditCustomer_04" />  
       <class name="com.banking.testCases.DeleteTest" />
       <class name="com.banking.testCases.TC_NewAccount_06" />  
